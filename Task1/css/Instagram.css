@@ -1,0 +1,80 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.described {
+    display: block;
+    width: 100%;
+    height:29.111%;
+    background: #4169E1;
+    text-align: center
+} 
+p {
+ text-align: center;
+ font: 4em/ 2 BRUSH SCRIPT MT;
+ color: #F8F8FF  ;
+    
+}
+
+#branch {
+    display: block;
+    width: 15em;
+    height: 15em;
+    background: whight;
+} 
+.Textunder{
+ text-align: center;
+ font: 0.3em/ 2 bookman old style;
+ color:black ;
+    
+}
+.branch2 {
+    display: block;
+    width: 240px;
+    height: 240px;
+    background: whight;
+} 
+
+.Textunder{
+ text-align: left;
+ font: 0.3em/ 2 bookman old style;
+ color:black ;
+    
+    .branch3 {
+    display: block;
+    width: 240px;
+    height: 240px;
+    background: whight;
+} 
+
+.Textunder{
+ text-align: left;
+ font: 0.3em/ 2 bookman old style;
+ color:black ;
+    
+    .branch4{
+    display: block;
+    width: 240px;
+    height: 240px;
+    background: whight;
+} 
+
+.Textunder{
+ text-align: left;
+ font: 0.3em/ 2 bookman old style;
+ color:black ;
+    
+#branch1 {
+    display: block;
+    width: 100%;
+    height: 20%;
+    background: #4169E1;
+}
+.described2 {
+    display: block;
+    width: 100%;
+    height:29.111%;
+    background: #4169E1;
+   
+  }
