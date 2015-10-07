@@ -1,0 +1,46 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    display: block;
+    width: 100%;
+    height:20%;
+    background: #4169E1;
+    text-align: center
+} 
+.Inst {
+ text-align: center;
+ font: 4em/ 2 BRUSH SCRIPT MT;
+ color: #F8F8FF  ;
+ margin: - 20 auto;
+}
+#shift {
+	margin-top: 100px;
+}
+
+ .picuni {
+ 	
+
+ display: block;
+ width: 360px;
+ height:260px;
+ margin: 0 auto;
+
+ }
+
+
+
+ .Textunder {
+ text-align: center;
+ font: 1.5em/ 2 Arial MT;
+ color: black  ;
+ }
+
+ .title2 {
+ display: block;
+ width: 100%;
+ height:20%;
+ background: #4169E1;
+ }
